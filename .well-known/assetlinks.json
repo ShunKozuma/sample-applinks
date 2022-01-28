@@ -2,9 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "net.mtgapp.homegym.tablet",
+    "package_name": "net.mtgapp.homegym.tablet.dev",
     "sha256_cert_fingerprints":
-    ["74:69:84:C7:70:84:97:37:41:17:8C:AF:3E:DC:1B:40:C1:EC:77:D2:05:66:23:D1:36:00:59:00:D4:08:79:25"]
+    ["C8:88:6C:28:7A:DB:CF:AC:39:CD:00:BA:E6:EE:5D:CA:7D:43:B0:28:77:41:90:0C:10:B0:B2:D1:95:E6:BF:14"]
   }
 },
 {
