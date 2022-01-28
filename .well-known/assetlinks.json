@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
       ["74:69:84:C7:70:84:97:37:41:17:8C:AF:3E:DC:1B:40:C1:EC:77:D2:05:66:23:D1:36:00:59:00:D4:08:79:25"]
    }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "net.mtgapp.homegym.mobile",
+    "sha256_cert_fingerprints":
+      ["3C:7A:79:66:B4:A7:DF:B1:60:1C:64:F6:16:69:9D:0B:19:D0:DF:DF:C0:B3:6F:BA:5C:BE:19:D8:3B:65:39:7C"]
+   }
 }]
