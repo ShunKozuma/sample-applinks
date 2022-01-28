@@ -11,6 +11,24 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "net.mtgapp.homegym.tablet",
+    "sha256_cert_fingerprints":
+    ["D4:0A:17:F2:C3:B4:0B:47:50:30:23:2A:CB:F8:9E:88:7F:00:E9:85:C9:DB:C5:22:C3:64:23:52:2E:FF:AE:B8"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "net.mtgapp.homegym.tablet",
+    "sha256_cert_fingerprints":
+    ["C8:88:6C:28:7A:DB:CF:AC:39:CD:00:BA:E6:EE:5D:CA:7D:43:B0:28:77:41:90:0C:10:B0:B2:D1:95:E6:BF:14"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "net.mtgapp.homegym.mobile",
     "sha256_cert_fingerprints":
       ["3C:7A:79:66:B4:A7:DF:B1:60:1C:64:F6:16:69:9D:0B:19:D0:DF:DF:C0:B3:6F:BA:5C:BE:19:D8:3B:65:39:7C"]
