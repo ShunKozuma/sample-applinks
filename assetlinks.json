@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sample.firebase",
+    "sha256_cert_fingerprints":
+    ["D4:0A:17:F2:C3:B4:0B:47:50:30:23:2A:CB:F8:9E:88:7F:00:E9:85:C9:DB:C5:22:C3:64:23:52:2E:FF:AE:B8"]
+  }
+}]
