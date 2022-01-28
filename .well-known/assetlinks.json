@@ -11,7 +11,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "net.mtgapp.homegym.mobile",
+    "package_name": "net.mtgapp.homegym.mobile.dev",
     "sha256_cert_fingerprints":
       ["C8:88:6C:28:7A:DB:CF:AC:39:CD:00:BA:E6:EE:5D:CA:7D:43:B0:28:77:41:90:0C:10:B0:B2:D1:95:E6:BF:14"]
    }
