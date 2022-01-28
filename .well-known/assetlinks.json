@@ -29,6 +29,15 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.sample.firebase",
+    "sha256_cert_fingerprints":
+    ["D4:0A:17:F2:C3:B4:0B:47:50:30:23:2A:CB:F8:9E:88:7F:00:E9:85:C9:DB:C5:22:C3:64:23:52:2E:FF:AE:B8"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "net.mtgapp.homegym.mobile",
     "sha256_cert_fingerprints":
       ["3C:7A:79:66:B4:A7:DF:B1:60:1C:64:F6:16:69:9D:0B:19:D0:DF:DF:C0:B3:6F:BA:5C:BE:19:D8:3B:65:39:7C"]
